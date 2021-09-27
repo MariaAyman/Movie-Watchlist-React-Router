@@ -1,3 +1,14 @@
+# Movie Watchlist - React Router
+
+A Movie App where you can present your favorite movies or TV shows.
+
+Previous Movie Watchlist app [here](https://github.com/MariaAyman/Movie-Watchlist-React-Hooks)
+
+Added features: 
+- A Movie details page with a youtube video trailer for every movie on the list
+- A brief description for said movie
+- Routing was used to navigate to different pages
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
