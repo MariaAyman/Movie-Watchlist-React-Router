@@ -15,10 +15,10 @@ const Movie = (props) => {
     return(
         <div className="container">
             <button type="button" className="btn btn-dark mt-2"><Link to="/" style={{textDecoration: 'none', color: '#fff'}}>back</Link></button>
-            <div className="d-flex justify-content-center m-3" style={{height: 313}}>
+            <div className="d-flex justify-content-center m-3" {/*style={{height: 313}}*/}>
                 <div className=" w-25 h-100 mx-3 d-flex justify-content-center" ><img src={movie.posterUrl} alt="" className="w-100 h-100"/></div>
-                <iframe width="600" 
-                        height="311" 
+                <iframe width="700" 
+                        height="435" 
                         src={movie.trailer} 
                         frameBorder="0" 
                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
