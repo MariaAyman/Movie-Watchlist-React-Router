@@ -12,7 +12,7 @@ const initMovies = [
     description: "Short Movie",
     posterUrl: "https://media-cache.cinematerial.com/p/500x/iegql2nv/the-house-of-gaunt-international-movie-poster.jpg?v=1612943017",
     rating: "9.3/10",
-    trailer: "https://www.youtube.com/watch?v=ubRz72gCzKI"
+    trailer: "https://www.youtube.com/embed/ubRz72gCzKI"
   },
   {
     id: 2,
@@ -20,7 +20,7 @@ const initMovies = [
     description: "Supernatural, Horror American Drama",
     posterUrl: "https://m.media-amazon.com/images/I/51sBiWAAPmL._AC_.jpg",
     rating: "8.4/10",
-    trailer: "https://www.youtube.com/embed?v=t-775JyzDTk"
+    trailer: "https://www.youtube.com/embed/t-775JyzDTk"
   },
   {
     id: 3,
@@ -28,7 +28,7 @@ const initMovies = [
     description: "Supernatural, Horror American Drama",
     posterUrl: "https://m.media-amazon.com/images/I/81wCYrs1o3L._AC_SL1500_.jpg",
     rating: "7.6/10",
-    trailer: "https://www.youtube.com/embed?v=1rCYDbefnmA"
+    trailer: "https://www.youtube.com/embed/1rCYDbefnmA"
   },
   {
     id: 4,
@@ -36,7 +36,7 @@ const initMovies = [
     description: "Spanish Drama",
     posterUrl: "https://static.tvtropes.org/pmwiki/pub/images/84f33fb99c99b4756b2bce7476a3ac14.jpg",
     rating: "8.4/10",
-    trailer: "https://www.youtube.com/embed?v=h_6KL7RY3pg"
+    trailer: "https://www.youtube.com/embed/h_6KL7RY3pg"
   },
   {
     id: 5,
@@ -44,7 +44,7 @@ const initMovies = [
     description: "Drama",
     posterUrl: "https://m.media-amazon.com/images/I/91w3r4YEgHL._AC_SY679_.jpg",
     rating: "7.9/10",
-    trailer: "https://www.youtube.com/embed?v=01rxgwVmxx0"
+    trailer: "https://www.youtube.com/embed/01rxgwVmxx0"
   },
   {
     id: 6,
@@ -52,7 +52,7 @@ const initMovies = [
     description: "Sitcom",
     posterUrl: "https://m.media-amazon.com/images/I/81LBzgzf0iL._AC_SY741_.jpg",
     rating: "9.2/10",
-    trailer: "https://www.youtube.com/embed?v=_uUcMwsR5hg"
+    trailer: "https://www.youtube.com/embed/_uUcMwsR5hg"
   },
   {
     id: 7,
@@ -60,7 +60,7 @@ const initMovies = [
     description: "Drama",
     posterUrl: "https://ghostwriter121.files.wordpress.com/2020/08/ua_s2_vertical_main_rgb_en-us-1.jpg",
     rating: "8/10",
-    trailer: "https://www.youtube.com/embed?v=0DAmWHxeoKw"
+    trailer: "https://www.youtube.com/embed/0DAmWHxeoKw"
   },
   {
     id: 8,
@@ -68,7 +68,7 @@ const initMovies = [
     description: "Drama",
     posterUrl: "https://i.redd.it/fkxt3x7llkkz.jpg",
     rating: "8.1/10",
-    trailer: "https://www.youtube.com/embed?v=dkb-aBaxkVk"
+    trailer: "https://www.youtube.com/embed/dkb-aBaxkVk"
   }
 ];
 
