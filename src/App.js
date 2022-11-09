@@ -12,7 +12,7 @@ const initMovies = [
     description: "Short Movie",
     posterUrl: "https://media-cache.cinematerial.com/p/500x/iegql2nv/the-house-of-gaunt-international-movie-poster.jpg?v=1612943017",
     rating: "9.3/10",
-    trailer: "https://www.youtube.com/embed?v=ubRz72gCzKI"
+    trailer: "https://www.youtube.com/watch?v=ubRz72gCzKI"
   },
   {
     id: 2,
